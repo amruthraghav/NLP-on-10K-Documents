@@ -1,6 +1,6 @@
 # 🌟NLP-on-10K-Documents(Financial Documents)🌟
 
-📄Scraping and Analysing Financial Documents filled Publically Traded Companies📄
+📄Scraping and Analysing Financial Documents filled by Publically Traded Companies📄
 
 🏢Publicly traded companies in the United States are required by law to file reports with the Securities and Exchange Commission (SEC) on "10-K" and "10-Q." These reports include qualitative as well as quantitative explanations of the success of the business, from sales estimates to qualitative risk factors. "Companies are required to disclose" important pending litigation or other legal proceedings "details. As such, 10-Ks and 10-Qs also provide useful insights into the success of a company. As such, 10-Ks and 10-Qs often hold valuable insights into a company's performance.
 
